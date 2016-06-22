@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Sniglet);
+
+body {
+  background: url(https://greatergivingcontent.com/Image/5324E972-3510-4B82-82E4-E069F29EB7EB?w=550&r=s);
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: green;
+  font-family: 'Sniglet', cursive;
+}
+img {
+  height: 300px;
+  width: 400px;
+}
+h1 {
+  font-size: 30px;
+
+h3 {
+  color: blue;
+}
+
+
+
+}
+.myatt {
+  font-size: 28px;
+  color: blue;
+  background-color: pink;
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+}
+.heratt {
+  font-size: 26px;
+  color: pink;
+  background-color: blue;
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+}
