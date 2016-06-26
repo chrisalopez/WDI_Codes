@@ -1,0 +1,59 @@
+/*#board {
+  margin: 15% 35%;
+  min-width: 320px;
+  min-height: 320px;
+}*/
+/*#box1{
+  width:100px;
+  height:100px;
+}
+
+.vertical{
+  border-left:5px solid #000;
+  border-right:5px solid #000;
+}
+
+.horizontal{
+  border-top:5px solid #000;
+  border-bottom:5px solid #000;*/
+/*}*/
+body {
+  background: #FFF;
+}
+#box1 {
+  background: #000;
+  width: 100px;
+  height: 100px;}
+#box2 {
+  background: #000;
+  width: 100px;
+  height: 100px;}
+#box3 {
+  background: #000;
+  width: 100px;
+  height: 100px;}
+#box4 {
+  background: #000;
+  width: 100px;
+  height: 100px;
+}#box5 {
+  background: #000;
+  width: 100px;
+  height: 100px;
+}#box6 {
+  background: #000;
+  width: 100px;
+  height: 100px;
+}#box7 {
+  background: #000;
+  width: 100px;
+  height: 100px;
+}#box8 {
+  background: #000;
+  width: 100px;
+  height: 100px;
+}#box9 {
+  background: #000;
+  width: 100px;
+  height: 100px;
+}
